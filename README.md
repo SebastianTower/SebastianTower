@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SebastianTower
 - 👀 I’m interested in be better every day
 - 🌱 I’m currently learning new technology tools
-- 💞️ I’m looking to collaborate on git
 - 📫 How to reach me sebastian Tower
 
 <!---
